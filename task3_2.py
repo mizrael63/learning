@@ -13,5 +13,6 @@ for i in array:
         count += 1
     else:
         count += 1
+        
 print("Исходный массив: ", array, '\n')
 print("На этих позициях расположены числа, кратные двум: ", result)
