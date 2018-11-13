@@ -1,3 +1,4 @@
+
 from collections import defaultdict
 i = 0
 a = int(input("Введите количество предприятий: "))
